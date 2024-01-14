@@ -4,7 +4,7 @@
   
 - 👯 I look forward to collaborating with other Data Analysts to work on real-world data and provide answers to business questions by tranforming relevant data into actionable insight that informed decision making.
   
-- 📫 You can reach me on ochukoejemudaro@gmail.com
+- 📫 You can reach me on ochukoejemudaro@gmail.com or [Twitter](https://twitter.com/iamochuks/)
   
 - 📭 I’m open to a Data Analyst role
 
